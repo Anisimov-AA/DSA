@@ -5,7 +5,7 @@ package dynamicArray;
  * @param <E> the type of elements stored in this dynamic array
  */
 public class DynamicArray<E>{
-d
+
   /** the array buffer into which the elements are stored */
   private E[] array;
   /** how many elements we have */
